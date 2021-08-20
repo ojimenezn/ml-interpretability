@@ -5,3 +5,6 @@ Project done as part of the ESMA4016 Machine Learning and Data Mining course at 
 ## What is interpretability?
 [LIME](https://doi.org/10.1145/2939672.2939778) and [SHAP](https://arxiv.org/pdf/1705.07874.pdf) are both methods that can be used to extract interpretability from complex (accurate) methods.
 
+<div align="center">
+<img src="https://github.com/ojimenezn/optim-clustering/blob/master/images/al-relax.png" alt="logo"></img>
+</div>
